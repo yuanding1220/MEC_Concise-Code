@@ -7,9 +7,9 @@
 % Date: June 6, 2016 
 % Update Date: October 10, 2017
 
-clc; 
-clear all;
-close all;
+%clc; 
+%clear all;
+%close all;
 
 % Control random number generation
 rng('default'); 
