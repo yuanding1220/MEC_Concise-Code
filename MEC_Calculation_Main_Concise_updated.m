@@ -11,7 +11,7 @@ clc;
 clear all;
 close all;
 
-test
+new date;
 
 % Control random number generation
 rng('default'); 
