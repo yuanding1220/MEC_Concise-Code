@@ -11,6 +11,8 @@ clc;
 clear all;
 close all;
 
+test
+
 % Control random number generation
 rng('default'); 
 
